@@ -1,1 +1,4 @@
-alert("test")
+import pageLoad from './pageLoad'
+
+// Load page
+pageLoad()
